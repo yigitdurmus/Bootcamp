@@ -1,0 +1,22 @@
+05.05.22
+
+oyunun ana hikayesi basit, anlaşılır ve kapsayıcı olmalı
+
+seviyeler "candy crush" tarzı bir harita üzerinde gösterilecek,
+ -seviyelerin sonunda ödül sistemi olmalı (puan, yıldız, para)
+ -oyuncu bu harita üzerinde serbestçe hareket edebilecek
+ -oyuncu bu harita üzerinde yalnızca seviyeler arasında geçiş yapabilecek
+
+oyuncunun kişiselleştirilebilir bir avatarı olacak
+ -"roblox"a benzer bir karakter tasarımı olabilir
+oyuncunun kişiselleştirilebilir bir "companion"ı olacak (?)
+ -bu companion karakterin etkileşime girebileceği bir hayvan olabilir (at, kedi, köpek vs.)
+ -tüm oyuncuları binebileceği bir atı olabilir veya yanında ona yardımcı olacak peti olabilir (?)
+
+oyuncuya ait bir can barı eklenebilir, oyuncu seviyelerde can barını sıfırlamamaya çalışabilir
+
+dört ana konumuz üzerinden oyunlaştırmaya gitmemiz gerekiyor,
+-dört işlem
+-kesirler
+-geometrik şekiller
+-ölçüm (uzunluk, alan, hacim vs.)
