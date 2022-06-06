@@ -134,7 +134,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp, Discord ve Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları word dokümanı formatında Readme'de tarafımızdan paylaşılmaktadır:
-[Daily Scrum 3]()
+[Daily Scrum 3](https://github.com/yigitdurmus/Bootcamp/blob/master/ProjectManagement/Daily%20Scrum%203%20(2).docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/yigitdurmus/Bootcamp/blob/master/ProjectManagement/Ek%20Belgeler/Sprint%20Backlog/s3backlog1.png) 
@@ -154,4 +154,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   - Projeye son verildi.
 
 -**Diğer Notlar**:
-  - Ekip üyelerinin yoğunluğu sebebiyle bu sprint içerisinde yapılması planlanan görevlerin yalnızca %50'si (120 puanlık backlogun 60 puanlık kısmı) tamamlanabildi. İkinci, üçüncü ve dördüncü seviyelerin tasarımları, bonus AR bölümü, yardımcı karakter asset tasarımları, giriş animasyonu ve kullanılmayan assetlerin temizliği tamamlanamadı. Yine de bu zamana kadar tamamlanan görevlerin ve ortaya çıkan uygulamanın akademiye teslim edilmesine karar verildi. İlerleyen günlerde uygulamamızın APK'sı Google Drive'a yüklenerek akademi ile paylaşılacak.
+  - Ekip üyelerinin yoğunluğu sebebiyle bu sprint içerisinde yapılması planlanan görevlerin %50'si (120 puanlık backlogun 60 puanlık kısmı) tamamlanabildi. İkinci, üçüncü ve dördüncü seviyelerin tasarımları, bonus AR bölümü, yardımcı karakter asset tasarımları, giriş animasyonu ve kullanılmayan assetlerin temizliği görevleri tamamlanamadı. Yine de bu zamana kadar tamamlanan görevlerin ve ortaya çıkan uygulamanın akademiye teslim edilmesine karar verildi. İlerleyen günlerde uygulamamızın APK'sı Google Drive'a yüklenerek akademi ile paylaşılacak.
+  - Oyunun 1. seviyesinde kullanılması planlanan örnek sorular repoya yüklendi: [Sorular](https://github.com/yigitdurmus/Bootcamp/blob/master/ProjectManagement/Ek%20Belgeler/Sorular.docx)
+  - Oyuna eklenmesi planlanan kayıt, giriş ve skor tahtaları için lootlocker sitesinden faydalanıldı. Developer ekibinin üzerinde çalıştığı ancak oyuna eklemek için vakit bulamadığı kodlar repoya yüklendi.
+    - Kullanıcı adı ve skor pull kodu: [Kod](https://github.com/yigitdurmus/Bootcamp/blob/master/Kodlar/GetNickName.cs)
+    - Skor push kodu: [Kod](https://github.com/yigitdurmus/Bootcamp/blob/master/Kodlar/ScoreSystem.cs)
+    - Kayıt ve giriş sistemi kodu: [Kod](https://github.com/yigitdurmus/Bootcamp/blob/master/Kodlar/WhiteLabelManager.cs)
