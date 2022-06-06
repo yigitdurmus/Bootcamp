@@ -123,4 +123,35 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 
----
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 120 puan olması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp, Discord ve Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları word dokümanı formatında Readme'de tarafımızdan paylaşılmaktadır:
+[Daily Scrum 3]()
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/yigitdurmus/Bootcamp/blob/master/ProjectManagement/Ek%20Belgeler/Sprint%20Backlog/s3backlog1.png) 
+![Backlog 2](https://github.com/yigitdurmus/Bootcamp/blob/master/ProjectManagement/Ek%20Belgeler/Sprint%20Backlog/s3backlog2.png) 
+
+- **Ürün Durumu**: Ürünün giriş kısmı, 1. seviye tasarımı, giriş ekranı ve karakter seçim ekranı tamamlandı ancak geri kalan seviyeler ekip üyelerinin yoğunluğu nedeniyle tamamlanamadı. Ürün logosu, giriş ekranı ve karakter seçim ekranı görselleri:
+![Screenshot 1](https://github.com/yigitdurmus/Bootcamp/blob/master/Aray%C3%BCz%20assetleri/1-for%20desktop.png)
+![Screenshot 2](https://github.com/yigitdurmus/Bootcamp/blob/master/Aray%C3%BCz%20assetleri/2-for%20desktop.png)
+![Screenshot 3](https://github.com/yigitdurmus/Bootcamp/blob/master/Aray%C3%BCz%20assetleri/3-for%20desktop.png)
+
+- **Sprint Review**:
+  - Tüm takım katılım sağladı.
+  - Bu sprint içerisinde tamamlanan görevler gözden geçirildi.
+  - Geri kalan zaman içerisinde tamamlanamayacak görevler reddedildi.
+
+- **Sprint Retrospective:**
+  - Projeye son verildi.
+
+-**Diğer Notlar**:
+  - Ekip üyelerinin yoğunluğu sebebiyle bu sprint içerisinde yapılması planlanan görevlerin yalnızca %50'si (120 puanlık backlogun 60 puanlık kısmı) tamamlanabildi. İkinci, üçüncü ve dördüncü seviyelerin tasarımları, bonus AR bölümü, yardımcı karakter asset tasarımları, giriş animasyonu ve kullanılmayan assetlerin temizliği tamamlanamadı. Yine de bu zamana kadar tamamlanan görevlerin ve ortaya çıkan uygulamanın akademiye teslim edilmesine karar verildi. İlerleyen günlerde uygulamamızın APK'sı Google Drive'a yüklenerek akademi ile paylaşılacak.
